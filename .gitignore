@@ -1,0 +1,9 @@
+.vs/
+
+include/
+bin.X86/
+bin.X64/
+lib.X86/
+lib.X64/
+obj.X86/
+obj.X64/
