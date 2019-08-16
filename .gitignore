@@ -1,5 +1,8 @@
 .vs/
 
+Debug/
+Release/
+
 include/
 bin.X86/
 bin.X64/
